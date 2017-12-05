@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etiquetas on CubaPura</title>
+    <link>/es/etiquetas/</link>
+    <description>Recent content in Etiquetas on CubaPura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>boaz@boazsobrado.com (Boaz Sobrado)</managingEditor>
+    <webMaster>boaz@boazsobrado.com (Boaz Sobrado)</webMaster>
+    <copyright>(c) 2017 Todos los derechos reservados</copyright>
+    
+	<atom:link href="/es/etiquetas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

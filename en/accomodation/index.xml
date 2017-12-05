@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accomodations on Cuba Pura</title>
-    <link>/en/accomodation/index.xml</link>
+    <link>/en/accomodation/</link>
     <description>Recent content in Accomodations on Cuba Pura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,7 +10,9 @@
     <webMaster>boaz@boazsobrado.com (Boaz Sobrado)</webMaster>
     <copyright>(c) 2017 Copyright CubaPura</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 02:50:28 +0200</lastBuildDate>
-    <atom:link href="/en/accomodation/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/en/accomodation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Concordia Backpackers</title>
@@ -18,8 +20,9 @@
       <pubDate>Sun, 15 Oct 2017 02:50:28 +0200</pubDate>
       <author>boaz@boazsobrado.com (Boaz Sobrado)</author>
       <guid>/en/accomodation/concordia/</guid>
-      <description>&lt;iframe src =&#34;https://www.beds24.com/booking2.php?propid=39811&amp;amp;referer=iframe&#34; width=&#34;800&#34; height=&#34;1000&#34; style=&#34;max-width:100%;border:none;overflow:auto;&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://www.beds24.com/booking2.php?propid=39811&amp;amp;referer=iframe&#34; title=&#34;Book Now&#34;&gt;Book Now&lt;/a&gt;&lt;/p&gt;&lt;/iframe&gt;
-</description>
+      <description>Book our hostel below! Book Now
+ fsfasfasf
+cscas</description>
     </item>
     
   </channel>

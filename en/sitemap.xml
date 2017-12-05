@@ -1,31 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/en/accomodation/concordia/</loc>
     <lastmod>2017-10-15T02:50:28+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/accomodation/concordia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/accomodation/concordia/"
+                />
   </url>
   
   <url>
     <loc>/en/2017/10/15/how-to-airport/</loc>
     <lastmod>2017-10-15T02:50:28+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/2017/10/15/how-to-airport/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/2017/10/15/how-to-airport/"
+                />
   </url>
   
   <url>
     <loc>/en/accomodation/</loc>
     <lastmod>2017-10-15T02:50:28+02:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/accomodation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/accomodation/"
+                />
   </url>
   
   <url>
     <loc>/en/</loc>
     <lastmod>2017-10-15T02:50:28+02:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
   </url>
   
   <url>
     <loc>/en/post/</loc>
     <lastmod>2017-10-15T02:50:28+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/en/topics/</loc>
     <priority>0</priority>
   </url>
   
